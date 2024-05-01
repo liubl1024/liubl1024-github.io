@@ -2,77 +2,77 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://liublg.github.io/project/about/index.html</loc>
+    <loc>https://liublg.github.io/about/index.html</loc>
     
     <lastmod>2024-04-30</lastmod>
     
   </url>
   
   <url>
-    <loc>https://liublg.github.io/project/categories/index.html</loc>
+    <loc>https://liublg.github.io/categories/index.html</loc>
     
     <lastmod>2024-04-30</lastmod>
     
   </url>
   
   <url>
-    <loc>https://liublg.github.io/project/tags/index.html</loc>
+    <loc>https://liublg.github.io/tags/index.html</loc>
     
     <lastmod>2024-04-30</lastmod>
     
   </url>
   
   <url>
-    <loc>https://liublg.github.io/project/friends/index.html</loc>
+    <loc>https://liublg.github.io/friends/index.html</loc>
     
     <lastmod>2024-04-30</lastmod>
     
   </url>
   
   <url>
-    <loc>https://liublg.github.io/project/2021/01/27/php_yuan_cheng_zhi_xing_duo_tiao_hao_shi_ming_ling/</loc>
+    <loc>https://liublg.github.io/2021/01/27/php_yuan_cheng_zhi_xing_duo_tiao_hao_shi_ming_ling/</loc>
     
     <lastmod>2024-04-30</lastmod>
     
   </url>
   
   <url>
-    <loc>https://liublg.github.io/project/2021/04/10/wei_shi_me_tcp_hui_nian_bao_er_http_bu_hui/</loc>
+    <loc>https://liublg.github.io/2021/04/10/wei_shi_me_tcp_hui_nian_bao_er_http_bu_hui/</loc>
     
     <lastmod>2024-04-30</lastmod>
     
   </url>
   
   <url>
-    <loc>https://liublg.github.io/project/2021/02/08/liao_yi_liao_jie_kou_mi_deng_xing/</loc>
+    <loc>https://liublg.github.io/2021/02/08/liao_yi_liao_jie_kou_mi_deng_xing/</loc>
     
     <lastmod>2024-04-30</lastmod>
     
   </url>
   
   <url>
-    <loc>https://liublg.github.io/project/2021/01/23/vue_yi_jian_bu_shu_fa_bu_shang_xian/</loc>
+    <loc>https://liublg.github.io/2021/01/23/vue_yi_jian_bu_shu_fa_bu_shang_xian/</loc>
     
     <lastmod>2024-04-30</lastmod>
     
   </url>
   
   <url>
-    <loc>https://liublg.github.io/project/2021/01/23/mysql_wu_shan_ku_liao_zen_me_ban/</loc>
+    <loc>https://liublg.github.io/2021/01/23/mysql_wu_shan_ku_liao_zen_me_ban/</loc>
     
     <lastmod>2024-04-30</lastmod>
     
   </url>
   
   <url>
-    <loc>https://liublg.github.io/project/2021/04/23/php_file_put_contents_bing_fa_xie_ru_shang/</loc>
+    <loc>https://liublg.github.io/2021/04/23/php_file_put_contents_bing_fa_xie_ru_shang/</loc>
     
     <lastmod>2024-04-30</lastmod>
     
   </url>
   
   <url>
-    <loc>https://liublg.github.io/project/2021/04/25/php_file_put_contents_bing_fa_xie_ru_xia/</loc>
+    <loc>https://liublg.github.io/2021/04/25/php_file_put_contents_bing_fa_xie_ru_xia/</loc>
     
     <lastmod>2024-04-30</lastmod>
     
@@ -80,107 +80,107 @@
   
 
   <url>
-    <loc>https://liublg.github.io/project</loc>
-    <lastmod>2024-04-30</lastmod>
+    <loc>https://liublg.github.io/</loc>
+    <lastmod>2024-05-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>1.0</priority>
   </url>
 
   
   <url>
-    <loc>https://liublg.github.io/project/tags/MYSQL/</loc>
-    <lastmod>2024-04-30</lastmod>
+    <loc>https://liublg.github.io/tags/MYSQL/</loc>
+    <lastmod>2024-05-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://liublg.github.io/project/tags/PHP/</loc>
-    <lastmod>2024-04-30</lastmod>
+    <loc>https://liublg.github.io/tags/PHP/</loc>
+    <lastmod>2024-05-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://liublg.github.io/project/tags/Linux/</loc>
-    <lastmod>2024-04-30</lastmod>
+    <loc>https://liublg.github.io/tags/Linux/</loc>
+    <lastmod>2024-05-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://liublg.github.io/project/tags/IO/</loc>
-    <lastmod>2024-04-30</lastmod>
+    <loc>https://liublg.github.io/tags/IO/</loc>
+    <lastmod>2024-05-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://liublg.github.io/project/tags/SHELL/</loc>
-    <lastmod>2024-04-30</lastmod>
+    <loc>https://liublg.github.io/tags/SHELL/</loc>
+    <lastmod>2024-05-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://liublg.github.io/project/tags/LINUX/</loc>
-    <lastmod>2024-04-30</lastmod>
+    <loc>https://liublg.github.io/tags/LINUX/</loc>
+    <lastmod>2024-05-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://liublg.github.io/project/tags/SSH/</loc>
-    <lastmod>2024-04-30</lastmod>
+    <loc>https://liublg.github.io/tags/SSH/</loc>
+    <lastmod>2024-05-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://liublg.github.io/project/tags/TCP/</loc>
-    <lastmod>2024-04-30</lastmod>
+    <loc>https://liublg.github.io/tags/TCP/</loc>
+    <lastmod>2024-05-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://liublg.github.io/project/tags/HTTP/</loc>
-    <lastmod>2024-04-30</lastmod>
+    <loc>https://liublg.github.io/tags/HTTP/</loc>
+    <lastmod>2024-05-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://liublg.github.io/project/tags/%E7%BD%91%E7%BB%9C/</loc>
-    <lastmod>2024-04-30</lastmod>
+    <loc>https://liublg.github.io/tags/%E7%BD%91%E7%BB%9C/</loc>
+    <lastmod>2024-05-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://liublg.github.io/project/tags/API/</loc>
-    <lastmod>2024-04-30</lastmod>
+    <loc>https://liublg.github.io/tags/API/</loc>
+    <lastmod>2024-05-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://liublg.github.io/project/tags/VUE/</loc>
-    <lastmod>2024-04-30</lastmod>
+    <loc>https://liublg.github.io/tags/VUE/</loc>
+    <lastmod>2024-05-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://liublg.github.io/project/tags/%E8%84%9A%E6%9C%AC%E5%B7%A5%E5%85%B7/</loc>
-    <lastmod>2024-04-30</lastmod>
+    <loc>https://liublg.github.io/tags/%E8%84%9A%E6%9C%AC%E5%B7%A5%E5%85%B7/</loc>
+    <lastmod>2024-05-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://liublg.github.io/project/tags/expect/</loc>
-    <lastmod>2024-04-30</lastmod>
+    <loc>https://liublg.github.io/tags/expect/</loc>
+    <lastmod>2024-05-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
@@ -188,36 +188,36 @@
 
   
   <url>
-    <loc>https://liublg.github.io/project/categories/MYSQL/</loc>
-    <lastmod>2024-04-30</lastmod>
+    <loc>https://liublg.github.io/categories/MYSQL/</loc>
+    <lastmod>2024-05-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://liublg.github.io/project/categories/PHP/</loc>
-    <lastmod>2024-04-30</lastmod>
+    <loc>https://liublg.github.io/categories/PHP/</loc>
+    <lastmod>2024-05-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://liublg.github.io/project/categories/%E7%BD%91%E7%BB%9C/</loc>
-    <lastmod>2024-04-30</lastmod>
+    <loc>https://liublg.github.io/categories/%E7%BD%91%E7%BB%9C/</loc>
+    <lastmod>2024-05-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://liublg.github.io/project/categories/API/</loc>
-    <lastmod>2024-04-30</lastmod>
+    <loc>https://liublg.github.io/categories/API/</loc>
+    <lastmod>2024-05-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
   
   <url>
-    <loc>https://liublg.github.io/project/categories/VUE/</loc>
-    <lastmod>2024-04-30</lastmod>
+    <loc>https://liublg.github.io/categories/VUE/</loc>
+    <lastmod>2024-05-01</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.6</priority>
   </url>
